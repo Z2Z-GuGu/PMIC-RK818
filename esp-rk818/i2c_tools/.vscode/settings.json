@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/Users/gugu/Documents/VScode_Project/ESP/esp/esp-idf",
+    "idf.toolsPath": "/Users/gugu/.espressif",
+    "idf.port": "/dev/tty.usbmodemQuark_Linker_1",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.flashType": "UART"
+}
